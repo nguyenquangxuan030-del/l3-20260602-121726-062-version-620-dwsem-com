@@ -1,0 +1,9 @@
+{
+  "name": "高清剧集大全",
+  "short_name": "高清剧集大全",
+  "description": "最新国产电视剧栏目聚合近期更新国产剧，按热度、题材和片单整理。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#7c3aed"
+}

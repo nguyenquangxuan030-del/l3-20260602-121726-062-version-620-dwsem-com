@@ -1,0 +1,20 @@
+{
+  "movie_count_from_txt": 1974,
+  "detail_page_count": 1974,
+  "category_page_count": 10,
+  "category_counts": {
+    "hot-picks": 198,
+    "premium-library": 198,
+    "new-release": 198,
+    "drama-zone": 198,
+    "movie-hall": 197,
+    "classic-review": 197,
+    "family-animation": 197,
+    "suspense-action": 197,
+    "romance-life": 197,
+    "documentary-world": 197
+  },
+  "video_source_count_from_uploaded_js": 20,
+  "image_rule": "cover_index = ((movie_index - 1) % 150) + 1",
+  "build_date": "2026-05-21"
+}
